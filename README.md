@@ -67,3 +67,4 @@ Pochodne.eval env f2;;
 ## Dodatkowe informacje:
 * warto używać 'reduce' - funkcje bez tego mogą dość szybko rosnąć
 * testy używają funkcji z dodatkowych_funkcji, więc w przypadku usunięcia tego przestaną działać
+* projekt jest dostępny na githubie: https://github.com/emilia276223/projekt_pochodne
