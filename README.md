@@ -3,7 +3,7 @@
 Autorka: Emilia Wiśniewska
 
 ## Informacje o projekcie
-Jest to projekt napisany w jezyku OCaml. Umożliwia on przedstawienie symboliczne funkcji oraz liczenie na takiej postaci pochodnej funkcji. Program składa się z kilku modułów, które odpowiadają za różne możliwości programu. Poza liczeniem pochodnych program umożliwia również parsowanie wyrażeń zapisanych w postaci napisu (np. "2*x^4 + 4*y - 2*x/5). Jest również możliwość dodania własnych funkcji (np. tan liczącej tangens argumentu) w module dodatkowe_funkcje.
+Jest to projekt napisany w jezyku OCaml. Umożliwia on przedstawienie symboliczne funkcji oraz liczenie na takiej postaci pochodnej funkcji. Program składa się z kilku modułów, które odpowiadają za różne możliwości programu. Poza liczeniem pochodnych program umożliwia również parsowanie wyrażeń zapisanych w postaci napisu (np. "2*x^4 + 4*y - 2*x/5"). Jest również możliwość dodania własnych funkcji (np. tan liczącej tangens argumentu) w module dodatkowe_funkcje.
 
 ## Moduły:
 1. Funkcja - umożliwiaja reprezentację typem danych funkcji matematycznych
